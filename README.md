@@ -36,7 +36,7 @@ Client → VIP (Port 5000) → HAProxy → Backend Servers (Port 80)
 
 ## ⚙️ Technologies Used
 
-* RHEL 9
+* RHEL 8.9
 * Keepalived (VRRP Protocol)
 * HAProxy
 * VMware Workstation
